@@ -54,7 +54,7 @@ This repository contains a simple Python implementation of the classic "Snake, W
 ```plaintext
 Enter your number: s
 You Choose Snake
-Computer choose Gun
+Computer Choose Gun
 You Lose
 ```
 
@@ -69,9 +69,6 @@ You Lose
 
 Contributions are welcome! If you have suggestions for improvements or new features, open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgements
 
